@@ -107,7 +107,7 @@ I'm an aspiring software developer based in Vellore, with a strong focus on back
 
 ### 🤝 Let's Connect
 
-<p> align="center">
+<p align="center">
 <a href="https://linkedin.com/in/poovarasanmoorthy290504/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://leetcode.com/u/poovarasanmoorthy2004/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
 <a href="https://www.hackerrank.com/profile/poovarasanmoort1" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
