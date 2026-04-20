@@ -11,7 +11,7 @@
 </p>
 
 </div>
-</div>hr>
+</div></hr>
 <br/>
 
 ### 👨‍💻 About Me
