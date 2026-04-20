@@ -11,7 +11,7 @@
 </p>
 
 </div>
-
+</div>hr>
 <br/>
 
 ### 👨‍💻 About Me
@@ -25,6 +25,7 @@ I'm an aspiring software developer based in Vellore, with a strong focus on back
 - 📫 **Contact Me:** [poovarasanmoorthy375@gmail.com](mailto:poovarasanmoorthy375@gmail.com)
 
 <br/>
+</hr>
 
 ### 🛠️ Tech Stack & Tools
 
@@ -95,15 +96,7 @@ I'm an aspiring software developer based in Vellore, with a strong focus on back
 
 <br/>
 
-### 🏆 GitHub Trophies
-
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=poovarasanmoorthy29&theme=transparent&no-bg=true&no-frame=true&margin-w=15" alt="GitHub Trophies" />
-  </a> 
-</p>
-
-<br/>
+</hr>
 
 ### 🤝 Let's Connect
 
