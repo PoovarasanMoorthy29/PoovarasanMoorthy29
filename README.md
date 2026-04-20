@@ -13,7 +13,7 @@
 </div>
 
 <br/>
-<a href="https://git.io/typing-svg">
+
 
 ### 👨‍💻 About Me
 
@@ -26,7 +26,7 @@ I'm an aspiring software developer based in Vellore, with a strong focus on back
 - 📫 **Contact Me:** [poovarasanmoorthy375@gmail.com](mailto:poovarasanmoorthy375@gmail.com)
 
 <br/>
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### 🛠️ Tech Stack & Tools
 
