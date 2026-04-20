@@ -11,10 +11,9 @@
 </p>
 
 </div>
-</div><p align="center">
-  <img src="https://komarev.com/ghpvc/?username=poovarasanmoorthy29&label=Profile%20Views&color=0E75B6&style=flat-square" alt="Profile Views" />
-</p>
+
 <br/>
+<a href="https://git.io/typing-svg">
 
 ### 👨‍💻 About Me
 
@@ -27,9 +26,7 @@ I'm an aspiring software developer based in Vellore, with a strong focus on back
 - 📫 **Contact Me:** [poovarasanmoorthy375@gmail.com](mailto:poovarasanmoorthy375@gmail.com)
 
 <br/>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=poovarasanmoorthy29&label=Profile%20Views&color=0E75B6&style=flat-square" alt="Profile Views" />
-</p>
+
 
 ### 🛠️ Tech Stack & Tools
 
@@ -89,9 +86,7 @@ I'm an aspiring software developer based in Vellore, with a strong focus on back
 <a href="https://linkedin.com/in/poovarasanmoorthy290504/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the
 
 <br/>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=poovarasanmoorthy29&label=Profile%20Views&color=0E75B6&style=flat-square" alt="Profile Views" />
-</p>
+
 
 ### 📊 GitHub Analytics
 
@@ -103,9 +98,7 @@ I'm an aspiring software developer based in Vellore, with a strong focus on back
 
 <br/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=poovarasanmoorthy29&label=Profile%20Views&color=0E75B6&style=flat-square" alt="Profile Views" />
-</p>
+
 
 ### 🤝 Let's Connect
 
